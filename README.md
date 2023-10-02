@@ -75,4 +75,4 @@ By following these straightforward steps, you've successfully configured your po
 
 -----
 
-[Next: osTicket - Ticket Lifecycle: Intake Through Resolution (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
+# [Next: osTicket - Ticket Lifecycle: Intake Through Resolution (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
