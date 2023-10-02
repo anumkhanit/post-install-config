@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post Installation Setup</h1>
-<p>we'll make sure your portfolio is configured properly to manage roles, departments, teams, tickets, agents, users, SLAs (Service Level Agreements), and help topics. Let's get started with easy-to-follow steps.</p>
+<h1>osTicket - Post Installation Setup (Part 2)</h1>
+<p>After installation, let's make sure it is configured properly to manage roles, departments, teams, tickets, agents, users, SLAs (Service Level Agreements), and help topics. Let's get started with easy-to-follow steps.</p>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -72,3 +72,7 @@
 
 <h1>Conclusion</h1>
 By following these straightforward steps, you've successfully configured your portfolio to manage roles, departments, teams, tickets, agents, users, SLAs, and help topics. Your setup is now ready to serve your needs effectively.
+
+-----
+
+[Next: osTicket - Ticket Lifecycle: Intake Through Resolution (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
